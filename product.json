@@ -1,0 +1,82 @@
+ {
+    "product": {
+      "sku": "example-sku",
+      "name": "Example Product",
+      "price": 29.99,
+      "status": 1,
+      "attribute_set_id": 4,
+      "type_id": "simple",
+      "weight": 0.5,
+      "extension_attributes": {
+        "stock_item": {
+          "qty": 10,
+          "is_in_stock": true
+        }
+      },
+      "custom_attributes": [
+        {
+          "attribute_code": "color",
+          "value": "Red"
+        },
+        {
+          "attribute_code": "color",
+          "value": "Blue"
+        },
+        {
+          "attribute_code": "color",
+          "value": "Green"
+        },
+        {
+          "attribute_code": "size",
+          "value": "Small"
+        },
+        {
+          "attribute_code": "size",
+          "value": "Medium"
+        },
+        {
+          "attribute_code": "size",
+          "value": "Large"
+        }
+      ]
+    }
+  }
+  //Details available on PIM
+  {
+    "skuID" : 476614,
+    "sku" : "WAP-10006470",
+    "path" : null,
+    "sku_marking" : "active",
+    "styleType" : "Non-Style",
+    "parent_sku" : "N/A",
+    "parentID" : null,
+    "parent_marking" : null,
+    "title" : "Stanley Slimline Combination Wrench - 29mm.",
+    "description" : "The Stanley combination wrench has a full polish chrome finish for anti-corrosion resistance. The product meets or exceeds ASME specs and has a Limited Lifetime Warranty.Chrome vanadium steelHeads angled at 150-degrees for optimum accessibilityFull Polish Chrome FinishMeets or Exceeds ANSI SpecsStanley Limited Lifetime Warranty",
+    "length" : 6,
+    "width" : 2,
+    "height" : 33,
+    "weight" : 0.44,
+    "metaTitle" : "Stanley Slimline Combination Wrench - 29mm.",
+    "metaDescription" : "Stanley Slimline Combination Wrench - 29mm.",
+    "productIdOnChannel" : 6085418287282,
+    "variantIdOnChannel" : 37555494584498,
+    "Shopify Status" : "ACTIVE",
+    "env" : "WAP",
+    "brand" : "Stanley",
+    "size_name" : null,
+    "size" : null,
+    "color" : null,
+    "deptName" : "050 HARDWARE",
+    "deptCode" : 50,
+    "subDeptName" : "050-076 TOOLS AND POWER TOOLS",
+    "subDeptCode" : 76,
+    "className" : "050-076-085 STANLEY",
+    "classCode" : 85,
+    "subClassName" : "050-076-085-005 POWER TOOLS",
+    "subClassCode" : 5,
+    "creationDatePHT" : "2022-09-21 07:54:59",
+    "salePrice" : 650.00,
+    "retailPrice" : 919.75,
+    "benchmarkPrice" : null
+ },
